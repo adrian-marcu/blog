@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/adrian-marcu/adrian-marcu.github.io.git
+	branch = main
+[submodule "adrian-marcu-blog/public"]
+	path = adrian-marcu-blog/public
+	url = https://github.com/adrian-marcu/adrian-marcu.github.io.git
+	branch = main
