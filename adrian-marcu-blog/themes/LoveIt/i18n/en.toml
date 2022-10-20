@@ -46,7 +46,8 @@ other = "Switch Theme"
 
 # === partials/footer.html ===
 [poweredBySome]
-other = "Powered by {{ .Hugo }} | Theme - {{ .Theme }}"
+#other = "Designed by {{ .Hugo }} | Theme - {{ .Theme }}"
+other = "Designed by Adrian Marcu"
 # === partials/footer.html ===
 
 # === partials/comment.html ===
