@@ -29,7 +29,7 @@
         post = ""
         name = "Posts"
         url = "/posts/"
-        title = ""
+        title = "Posts"
     [[menu.main]]
         weight = 5
         identifier = "about"
@@ -37,7 +37,15 @@
         post = ""
         name = "About"
         url = "/about/"
-        title = ""
+        title = "About"
+    [[menu.main]]
+        weight = 5
+        identifier = "contact"
+        pre = ""
+        post = ""
+        name = "Contact"
+        url = "/contact/"
+        title = "Contact"    
 
   # Header config
   [params.header]
@@ -144,7 +152,7 @@
       # URL of avatar shown in home page
       avatarURL = "/images/avatar-adrian.png"
       # title shown in home page (HTML format is supported)
-      title = ""
+      title = "Adrian Marcu"
       # subtitle shown in home page (HTML format is supported)
       subtitle = "Freelance Senior Java Engineer"
       # whether to use typeit animation for subtitle
@@ -152,7 +160,7 @@
       # whether to show social links
       social = true
       # disclaimer (HTML format is supported)
-      disclaimer = ""
+      disclaimer = "I am a consultant · contractor · freelancer with 6+ years of experience, only interested in remote work."
     # Home page posts
     [params.home.posts]
       enable = true

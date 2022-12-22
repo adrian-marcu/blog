@@ -2,3 +2,8 @@ baseURL = 'https://adrian-marcu.github.io/'
 languageCode = 'en-us'
 title = 'Adrian Marcu'
 theme = 'LoveIt'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
