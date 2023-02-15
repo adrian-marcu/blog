@@ -9,7 +9,7 @@ header {
   }
 
   .logo {
-    min-height: 1.5em;
+    min-height: 2.2em;
     height: 1.5em;
     vertical-align: text-bottom;
   }
@@ -30,10 +30,12 @@ header {
 .header-wrapper {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  //align-items: center;
   box-sizing: border-box;
   width: 100%;
 }
+
+
 
 .header-title {
   font-family: var(--header-title-font-family);
@@ -155,6 +157,12 @@ header {
     position: static;
   }
 
+  header{
+    .header-wrapper{
+      align-items: bottom;
+    }
+  }
+
   .header-wrapper {
     padding: 0 2rem 0 10vh;
 
@@ -175,6 +183,7 @@ header {
 
         &.delimiter {
           border-left: 1.5px solid $global-font-color;
+          padding-right: 0px;
 
           [theme=dark] & {
             border-left-color: $global-border-color-dark;
@@ -227,6 +236,7 @@ header {
     .header-wrapper {
       padding: 0 1rem;
       font-size: 1.125rem;
+      align-items: center;
       @include transition(margin-top 0.3s ease);
 
       .header-title {
@@ -234,8 +244,17 @@ header {
         max-width: 80%;
       }
 
+      .hreftitle {
+        //color: red;
+      }
+      
+      .logo{
+        width: 11em;
+      }
+
       .menu-toggle {
         line-height: 4rem;
+        padding-bottom: 0.4em;
         cursor: pointer;
         @include transition(width 0.3s ease);
 

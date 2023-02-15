@@ -1,9 +1,19 @@
-baseURL = 'https://adrian-marcu.github.io/'
+baseURL = 'https://adrian-marcu.com/'
 languageCode = 'en-us'
 title = 'Adrian Marcu'
 theme = 'LoveIt'
+enableRobotsTXT = true
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+
+[markup.goldmark]
+  [markup.goldmark.extensions]
+    definitionList = true
+    footnote = true
+    linkify = true
+    strikethrough = true
+    table = true
+    taskList = true
+    typographer = true
+  [markup.goldmark.renderer]
+    # whether to use HTML tags directly in the document
+    unsafe = true

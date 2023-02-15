@@ -4,70 +4,23 @@ date: 2022-11-02T23:44:54+02:00
 draft: false
 ---
 # Hi, I'm Adrian 
-## I help organizations develop and scale their software capabilities.
-
-I can help you:
- - increase software delivery and prototyping speed
- - take better decisions based on data
- - increase resiliency and realiability of your software
- - save hundreds of hours of engineering time
- - mentor your teams or engineering leaders and set up your engineering organization for success
-
----
 
 
-<style>
-.div1 {
-  padding: 0;
-  margin: 0;
-  background-color: #000;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+As a senior software engineer with extensive experience in **Java** <i class="fa-brands fa-java"></i> and **Spring Framework**, I have a proven track record of delivering high-quality, well-designed software on time and on budget. My skills include:
 
-.div1 {
-  background: linear-gradient(to right, hsl(0, 0%, 30%) 0, hsl(0, 0%, 100%) 10%, hsl(0, 0%, 30%) 20%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: shine 3s infinite linear;
-}
-
-@keyframes shine {
-  0% {
-    background-position: 0;
-  }
-  60% {
-    background-position: 600px;
-  }
-  100% {
-    background-position: 600px;
-  }
-}
-</style>
-
-<div class="div1">
-    Markdown css styles
-</div>
-
-
-<style>
-h1 {
-  color: blue;
-  font-family: verdana;
-  font-size: 300%;
-}
-p {
-  color: red;
-  font-family: courier;
-  font-size: 160%;
-}
-</style>
+- Increasing software delivery and prototyping speed
+- Using data to make better decisions
+- Improving the resiliency and reliability of software
+- Saving hundreds of hours of engineering time through effective problem-solving and creative solutions
+- Mentoring teams and engineering leaders to set up engineering organizations for success
+- Strong communication and collaboration skills, able to work effectively with both technical and non-technical stakeholders
+- Quickly understanding complex systems and identifying opportunities for improvement
 
 ---
 
-## Software Engineer - Competent
-<p style="font-size: 110%; color:#525150; border-bottom: medium solid rounded; border-bottom-style: dotted; border-end-end-radius: 40px 5px;
+# My background
+#### Software Engineer - Competent
+<p style="font-size: 97%; color:#525150; border-bottom: medium solid rounded; border-bottom-style: dotted; border-end-end-radius: 40px 5px;
 border-end-start-radius: 40px 5px;
 font-weight: bold; ">
     ING Hubs Romania
@@ -84,8 +37,8 @@ font-weight: bold; ">
 🛠️ Skills: Microservices · OpenShift · Elasticsearch · Spring Boot · Continuous Integration and Continuous Delivery (CI/CD) · Scrum
 
 
-## Software Engineer - Advanced
-<p style="font-size: 110%; color:#525150; border-bottom: medium solid rounded; border-bottom-style: dotted; border-end-end-radius: 40px 5px;
+#### Software Engineer - Advanced
+<p style="font-size: 97%; color:#525150; border-bottom: medium solid rounded; border-bottom-style: dotted; border-end-end-radius: 40px 5px;
 border-end-start-radius: 40px 5px;
 font-weight: bold; ">
     ING Hubs Romania
@@ -113,8 +66,8 @@ font-weight: bold; ">
 
 
 
-## Software Developer
-<p style="font-size: 110%; color:#525150; border-bottom: medium solid rounded; border-bottom-style: dotted; border-end-end-radius: 40px 5px;
+#### Software Developer
+<p style="font-size: 97%; color:#525150; border-bottom: medium solid rounded; border-bottom-style: dotted; border-end-end-radius: 40px 5px;
 border-end-start-radius: 40px 5px;
 font-weight: bold; ">
     Coconet
@@ -132,8 +85,8 @@ font-weight: bold; ">
 
 🛠️ Skills: Spring Framework · Linux · Java 8 · Oracle Database · Microsoft SQL Server · XML · XML Schema Definition (XSD) · JBoss Application Server · Git · Maven · Jira · Jenkins · Agile Methodologies · Kanban
 
-## Software Developer
-<p style="font-size: 110%; color:#525150; border-bottom: medium solid rounded; border-bottom-style: dotted; border-end-end-radius: 40px 5px;
+#### Software Developer
+<p style="font-size: 97%; color:#525150; border-bottom: medium solid rounded; border-bottom-style: dotted; border-end-end-radius: 40px 5px;
 border-end-start-radius: 40px 5px;
 font-weight: bold; ">
     Endava
@@ -161,8 +114,8 @@ font-weight: bold; ">
 🛠️ Skills: Spring Framework · Representational State Transfer (REST) · Hibernate · Jetty · JavaScript · AngularJS · Java 8 · Spring Boot · Erlang
 
 
-## Mobile Application Developer Intern
-<p style="font-size: 110%; color:#525150; border-bottom: medium solid rounded; border-bottom-style: dotted; border-end-end-radius: 40px 5px;
+#### Mobile Application Developer Intern
+<p style="font-size: 97%; color:#525150; border-bottom: medium solid rounded; border-bottom-style: dotted; border-end-end-radius: 40px 5px;
 border-end-start-radius: 40px 5px;
 font-weight: bold; ">
     Ubisoft Romania

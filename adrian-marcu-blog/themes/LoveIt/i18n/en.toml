@@ -149,6 +149,13 @@ other = "Page not found"
 other = "The page you're looking for doesn't exist. Sorry."
 # === 404.html ===
 
+# === messageSent.html ===
+[messageSent]
+other = "Message Sent"
+
+[messageSentText]
+other = "Message was successfully sent!"
+
 # === shortcodes/admonition.html ===
 [note]
 other = "Note"
