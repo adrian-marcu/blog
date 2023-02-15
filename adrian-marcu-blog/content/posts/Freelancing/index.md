@@ -53,7 +53,7 @@ The significance of creating a **strong online presence** should be taken into a
 This entails having a respectable website, a regularly updated blog, and a lively online presence on social media and business networking websites.
 This will enable you to reach a larger audience and present your qualifications to potential customers.
 
-![Work from home space](/images/Freelancing/Workspac.webp "Work from home space")
+![Work from home space](/images/Freelancing/Workspace.webp "Work from home space")
 
 ### Being prone to entrepreneurship
 
