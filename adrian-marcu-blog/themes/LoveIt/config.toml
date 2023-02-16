@@ -4,7 +4,7 @@
     min = "0.62.0"
 
 [params]
-  # site default theme ["light"]
+  # site default theme ["auto", "light", "dark"]
   defaultTheme = "light"
   # public git repo url only then enableGitInfo is true
   gitRepo = ""

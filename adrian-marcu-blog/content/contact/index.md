@@ -26,6 +26,7 @@ draft: false
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: shine 3s infinite linear;
+  
 }
 
 @keyframes shine {
