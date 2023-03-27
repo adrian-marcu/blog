@@ -1,7 +1,7 @@
 ---
 title: "Another perspective on microservices architecture"
-date: 2023-01-27T00:42:45+02:00
-draft: true 
+date: 2023-03-27T00:42:45+02:00
+draft: false 
 author: "Adrian Marcu"
 authorLink: "https://adrian-marcu.com"
 
@@ -9,9 +9,9 @@ description: "Discover the advantages and disadvantages of microservice architec
 images: []
 resources:
 - name: "featured-image"
-  src: "monomicro.webp"
+  src: "monomicro.jpeg"
 - name: "featured-image-preview"
-  src: "monomicro.webp"
+  src: "monomicro.jpeg"
 
 url: /another-perspective-on-microservices/
 

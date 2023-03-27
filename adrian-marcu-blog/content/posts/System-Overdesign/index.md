@@ -1,7 +1,7 @@
 ---
 title: "Pitfalls when overdesigning a system"
-date: 2023-01-20T14:16:53+02:00
-draft: true 
+date: 2023-03-12T14:16:53+02:00
+draft: false 
 author: "Adrian Marcu"
 authorLink: "https://adrian-marcu.com"
 

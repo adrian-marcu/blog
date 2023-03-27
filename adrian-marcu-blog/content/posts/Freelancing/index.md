@@ -9,9 +9,9 @@ description: "A blog about becoming and staying a freelance software developer i
 images: []
 resources:
 - name: "featured-image"
-  src: "AdrianFreelancingBlog.webp"
+  src: "AdrianFreelancingBlog.jpeg"
 - name: "featured-image-preview"
-  src: "AdrianFreelancingBlog.webp"
+  src: "AdrianFreelancingBlog.jpeg"
 
 url: /freelancing/
 
@@ -38,7 +38,7 @@ It can be difficult for a senior developer to transition from working for a corp
 However, the freedom and **adaptability** of freelancing can be a significant lure for many engineers.
 You have greater control over your job and may work on projects that are in line with your interests and values when you have the freedom to choose the projects you work on and create your own timetable. Making use of the global market may also assist you in expanding your clientele and reaching new audiences. 
 
-I was involved in multiple projects and gained alot of **experience** is a crucial step towards becoming a senior developer.
+I was involved in multiple projects and gained alot of **experience**. This is a crucial step towards becoming a senior developer.
 You can develop a variety of skills and experiences by working on various projects, as well as learn from various teams and stakeholders.
 Additionally, staying current with emerging technology and trends will help you maintain your **competitive edge** and adjust to shifting market conditions. 
 
