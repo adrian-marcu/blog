@@ -9,9 +9,9 @@ description: "A blog about the pitfalls of overdesigning a system" #Good for SEO
 images: []
 resources:
 - name: "featured-image"
-  src: "complex-system.webp"
+  src: "complex-system.jpeg"
 - name: "featured-image-preview"
-  src: "complex-system.webp"
+  src: "complex-system.jpeg"
 
 url: /system-overdesign/
 
