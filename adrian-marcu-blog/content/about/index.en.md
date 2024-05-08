@@ -19,6 +19,34 @@ As a senior software engineer with extensive experience in **Java** <i class="fa
 ---
 
 # My background
+#### Senior Software Engineer
+<p style="font-size: 97%; color:#525150; border-bottom: medium solid rounded; border-bottom-style: dotted; border-end-end-radius: 40px 5px;
+border-end-start-radius: 40px 5px;
+font-weight: bold; ">
+    A2X Accounting
+    <span style="color:#525150; float:right;">
+        October 2022 - March 2024
+    </span>
+</p>
+
+* Implemented 3 different OAuth2 API connections with major ecommerce platforms, enabling seamless integration and data exchange, 𝐞𝐱𝐩𝐚𝐧𝐝𝐢𝐧𝐠 𝐭𝐡𝐞 𝐜𝐨𝐦𝐩𝐚𝐧𝐲'𝐬 𝐫𝐞𝐚𝐜𝐡 𝐚𝐧𝐝 𝐩𝐫𝐨𝐯𝐢𝐝𝐢𝐧𝐠 𝐞𝐧𝐡𝐚𝐧𝐜𝐞𝐝 𝐟𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥𝐢𝐭𝐲 𝐟𝐨𝐫 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬
+
+* Designed and implemented an auto upgrade/downgrade algorithm for customer subscriptions, resulting in a 𝐬𝐢𝐠𝐧𝐢𝐟𝐢𝐜𝐚𝐧𝐭 𝐢𝐧𝐜𝐫𝐞𝐚𝐬𝐞 𝐨𝐟 𝐚𝐩𝐩𝐫𝐨𝐱𝐢𝐦𝐚𝐭𝐞𝐥𝐲 $𝟏𝟎𝟎𝐤 𝐢𝐧 𝐌𝐨𝐧𝐭𝐡𝐥𝐲 𝐑𝐞𝐜𝐮𝐫𝐫𝐢𝐧𝐠 𝐑𝐞𝐯𝐞𝐧𝐮𝐞 (𝐌𝐌𝐑). This algorithm optimized subscription management, ensuring customers were on the most suitable plans while maximizing revenue for the company.
+
+* Led the migration of application entities to utilize a new data access API for Google App Engine datastore. This migration significantly improved data read and write efficiency, 𝐚𝐜𝐡𝐢𝐞𝐯𝐢𝐧𝐠 𝐚 𝟓𝟎% 𝐢𝐧𝐜𝐫𝐞𝐚𝐬𝐞 𝐢𝐧 𝐨𝐯𝐞𝐫𝐚𝐥𝐥 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞. This enhancement positively impacted application responsiveness and scalability.
+
+* Migrated from Google Memcache solution to a Redis database, facilitating session management migration from Memcache to Redis.
+
+* Transitioned file storage from Google App Engine libraries to Google Cloud Storage, streamlining Cloud Run migration efforts.
+
+* Refactored a significant portion of the application (Google App Engine tasks) to support migration from Google App Engine to Google Cloud Run (Cloud Tasks), resulting in substantial performance improvements across the application.
+
+* Redesigned the OAuth signin connections flow from JSP pages (server-side processing) to Single Page Application (SPA) Vue pages (client-side processing), and incorporated Microsoft OAuth flow for enhanced user authentication and authorization.
+
+💼 https://www.a2xaccounting.com/
+
+🛠️ Skills: Google Cloud Platform, Appengine, Google Cloud Run, Memcache, Datastore, Redis, Oauth2, VUE JS, JSP pages, API design & security
+
 #### Software Engineer - Competent
 <p style="font-size: 97%; color:#525150; border-bottom: medium solid rounded; border-bottom-style: dotted; border-end-end-radius: 40px 5px;
 border-end-start-radius: 40px 5px;
