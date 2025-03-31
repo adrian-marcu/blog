@@ -3,8 +3,7 @@ title: "About me"
 date: 2022-11-02T23:44:54+02:00
 draft: false
 ---
-# Hi, I'm Adrian 
-
+# Hi, I'm Adrian
 
 As a senior software engineer with extensive experience in **Java** <i class="fa-brands fa-java"></i> and **Spring Framework**, I have a proven track record of delivering high-quality, well-designed software on time and on budget. My skills include:
 
@@ -19,6 +18,50 @@ As a senior software engineer with extensive experience in **Java** <i class="fa
 ---
 
 # My background
+
+#### Founder · Self-employed
+<p style="font-size: 97%; color:#525150; border-bottom: medium solid rounded; border-bottom-style: dotted; border-end-end-radius: 40px 5px;
+border-end-start-radius: 40px 5px;
+font-weight: bold; ">
+    Evogile
+    <span style="color:#525150; float:right;">
+        Jan 2024 - Present 
+    </span>
+</p>
+
+* Evogile is a platform that allows you to invest in real assets, using the same principles as stock based ETFs.
+
+* Mimic ETF strategies and split your cash across real assets you own, no Wall Street expertise needed.
+
+* A simple sandbox to learn investing, tweak your portfolio, and build confidence on your terms.
+
+    🔗 https://evogile.com
+
+
+#### Senior Fullstack Software Engineer • Contractor
+<p style="font-size: 97%; color:#525150; border-bottom: medium solid rounded; border-bottom-style: dotted; border-end-end-radius: 40px 5px;
+border-end-start-radius: 40px 5px;
+font-weight: bold; ">
+    Remote Work
+    <span style="color:#525150; float:right;">
+        August 2022 - Present
+    </span>
+</p>
+
+🚀 I work as a Consultant / Contractor and help businesses develop their enterprise products.
+
+✅ My programming language of choice is Java (backend solutions using mainly Spring framework) but I have also done DevOps using OpenShift, Docker, Kubernetes when needed.
+
+🔧 With a knack for full-stack development, I am proficient in a variety of technologies:
+
+➤ **Frontend**: Proficient in React Vite and JSP pages, ensuring engaging and responsive user interfaces.
+
+➤ **Backend**: Skilled in Java 21 and Spring Boot, crafting powerful and scalable backend systems.
+
+➤ **DevOps**: Seasoned in Terraform for infrastructure as code, and adept with Google CloudRun, AppEngine, and Cloud Tasks for efficient deployment and orchestration. Familiar with Datastore and Redis.
+
+🛠️ Skills: Java 21, Spring Boot, React Vite, JSP, Terraform, OpenShift, Docker, Kubernetes, Google CloudRun, AppEngine, Cloud Tasks, Datastore, Redis
+
 #### Senior Software Engineer
 <p style="font-size: 97%; color:#525150; border-bottom: medium solid rounded; border-bottom-style: dotted; border-end-end-radius: 40px 5px;
 border-end-start-radius: 40px 5px;
@@ -43,7 +86,7 @@ font-weight: bold; ">
 
 * Redesigned the OAuth signin connections flow from JSP pages (server-side processing) to Single Page Application (SPA) Vue pages (client-side processing), and incorporated Microsoft OAuth flow for enhanced user authentication and authorization.
 
-💼 https://www.a2xaccounting.com/
+    🔗 https://www.a2xaccounting.com/
 
 🛠️ Skills: Google Cloud Platform, Appengine, Google Cloud Run, Memcache, Datastore, Redis, Oauth2, VUE JS, JSP pages, API design & security
 
@@ -53,7 +96,7 @@ border-end-start-radius: 40px 5px;
 font-weight: bold; ">
     ING Hubs Romania
     <span style="color:#525150; float:right;">
-        March 2020 - July 2022
+        March 2022 - July 2022
     </span>
 </p>
 
@@ -159,4 +202,34 @@ font-weight: bold; ">
 💼 Prototype Mobile Game
 
 🛠️ Skills: Game design & mechanics, Unity 5.1, C#, Mercurial, Visual Basic
+
+
+# Education 🎓
+
+### Master's Degree · Advanced Software Services · University Politehnica of Bucharest
+<p style="font-size: 97%; color:#525150; border-bottom: medium solid rounded; border-bottom-style: dotted; border-end-end-radius: 40px 5px;
+border-end-start-radius: 40px 5px;
+font-weight: bold; ">
+    University Politehnica of Bucharest
+    <span style="color:#525150; float:right;">
+        2016 - 2018
+    </span>
+</p>
+
+- **Focus Areas**: Cloud Computing, Distributed Systems Policies, Service Integration & Management, Computer Security, IT Project Management, Data Mining & Warehousing
+- Gained in-depth knowledge to design and develop advanced software services using cutting-edge distributed technologies, with a focus on scalable service-based applications.
+
+---
+
+### Bachelor of Applied Science · Computer Science · University Politehnica of Bucharest
+<p style="font-size: 97%; color:#525150; border-bottom: medium solid rounded; border-bottom-style: dotted; border-end-end-radius: 40px 5px;
+border-end-start-radius: 40px 5px;
+font-weight: bold; ">
+    University Politehnica of Bucharest
+    <span style="color:#525150; float:right;">
+    2012 - 2016
+    </span>
+</p>
+
+* **Focus Areas**: Software Engineering, Computer Networks, Operating Systems, Database Management Systems, Web Technologies
 
