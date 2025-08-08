@@ -5,8 +5,10 @@ description: "Contact Adrian Marcu Freelance Senior Software Engineer" #Good for
 draft: false
 ---
 
-# Ready to collaborate and bring ideas to life? 
-##### Hit me up! Whether it’s brainstorming projects, swapping fresh concepts, or just linking up to grow our circle, I’m game.
+# Ready to collaborate and bring ideas to life?
+
+##### Hit me up! Whether it's brainstorming projects, swapping fresh concepts, or just linking up to grow our circle, I'm game.
+
 <style>
   .contact {
     padding: 2.5rem; /* Consistent padding on all sides */
@@ -16,7 +18,7 @@ draft: false
     background: #f7f7f7;
     border-radius: 10px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
-    box-sizing: border-box; /* Ensures padding doesn’t push width */
+    box-sizing: border-box; /* Ensures padding doesn't push width */
   }
 
   .form-group {
@@ -79,6 +81,32 @@ draft: false
     margin-right: 0.5rem;
     color: #4a4a4a;
   }
+  
+  .or-divider {
+    text-align: center;
+    margin: 2.5rem 0;
+    position: relative;
+  }
+  
+  .or-divider::before, .or-divider::after {
+    content: "";
+    display: inline-block;
+    width: 40%;
+    height: 1px;
+    background: #e0e0e0;
+    vertical-align: middle;
+  }
+  
+  .or-divider span {
+    padding: 0 15px;
+    font-weight: 600;
+    color: #777;
+  }
+  
+  .calendar-container {
+    text-align: center;
+    margin: 1.5rem 0;
+  }
 </style>
 
 <div class="contact">
@@ -99,4 +127,28 @@ draft: false
       <button class="button" name="submit" type="submit">Send</button>
     </div>
   </form>
+
+  <div class="or-divider">
+    <span>OR</span>
+  </div>
+
+  <div class="calendar-container">
+    <!-- Google Calendar Appointment Scheduling begin -->
+    <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+    <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+    <script>
+    (function() {
+      var target = document.currentScript;
+      window.addEventListener('load', function() {
+        calendar.schedulingButton.load({
+          url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ2ZGN-5lZU8L0Mff1MyHqT7sv4M6jFdlRtvAXAdFQUXJXJDH7A2m1rsNRIX6m1N4DFbVzk6UuUl?gv=true',
+          color: '#1e1e1e',
+          label: 'Book an appointment',
+          target,
+        });
+      });
+    })();
+    </script>
+    <!-- end Google Calendar Appointment Scheduling -->
+  </div>
 </div>

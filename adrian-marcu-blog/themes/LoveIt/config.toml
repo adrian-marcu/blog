@@ -154,13 +154,13 @@
       # title shown in home page (HTML format is supported)
       title = "Adrian Marcu"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Senior Fullstack Software Engineer"
+      subtitle = "Senior Fullstack Consultant & AI Engineeer"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
       social = true
       # disclaimer (HTML format is supported)
-      disclaimer = "I am a consultant · contractor · solopreneur with 8+ years of experience"
+      disclaimer = "I am a consultant · contractor · AI Solutions Engineer with 10+ years of experience"
     # Home page posts
     [params.home.posts]
       enable = true
